@@ -1,6 +1,6 @@
 # dev-tool
 
-dev-tool is a developer cli tool in modern c++ works good and the info is provided once you download the prebuilt windows exe so if you wanna know command arguments the exe already provides that and this is strictly a windows tool.
+dev-tool is a developer cli tool in modern c++ works good and the info is provided once you download the prebuilt windows exe so if you wanna know command arguments the exe already provides that and this is strictly a windows tool there is no guarantees that there will be a linux version unless i decide to add support for that.
 
 Download `dev.exe` from Releases, open PowerShell in its folder, and add it to your `PATH`:
 
